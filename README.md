@@ -1,2 +1,2 @@
 # AMAEOd-CompProg1-Week04
-Very AMA. so amaze. wow.
+Very AMA. much learning. so amaze. wow.
