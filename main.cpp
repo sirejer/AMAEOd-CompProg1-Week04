@@ -10,7 +10,7 @@
 using namespace std;
 
 
- int main() {
+ int bestcalc() {
      // some functions to set first, we will need these.
     int x, y;
     int sum;
