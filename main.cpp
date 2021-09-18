@@ -1,7 +1,7 @@
 // THE BEST CALCULATOR IN THE WORLD
 //AUTHOR:Jeremiah Casibang
-//Description: a one way calculator that calculates addition with A HUMAN stuffed inside in it that will tell the user if the inputted value is less or greater than 4 (LEGIT)
-//(i swear... it can think or maybe im just paranoid..)
+//Description: a one way calculator that calculates addition with A HUMAN stuffed into that will tell the user if the inputted value is less or greater than 4 (LEGIT)
+//(i swear... it can think or maybe im just being paranoid..)
 //for ACLC Computer programing subject.
 //date 18/09/2021
 
