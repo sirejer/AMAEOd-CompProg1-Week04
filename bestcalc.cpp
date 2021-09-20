@@ -1,7 +1,6 @@
-// THE BEST CALCULATOR IN THE WORLD
+// THE BEST CALCULATOR IN THE WORLD: Better than my calculator 
 //AUTHOR:Jeremiah Casibang
-//Description: a one way calculator that calculates addition with A HUMAN stuffed inside in it that will tell the user if the inputted value is less or greater than 4 (LEGIT)
-//(i swear... it can think or maybe im just paranoid..)
+//Description: a one way calculator that uses addition with a simple feature or dialog that tells the user if the final product is less or greater than 4
 //for ACLC Computer programing subject.
 //date 18/09/2021
 
@@ -11,13 +10,13 @@ using namespace std;
 
 
  int bestcalc() {
-     // some functions to set first, we will need these.
+     // some call functions to set first, we will need these.
     int x, y;
     int sum;
-    // This is where im going to put my input and output, hence to display text and to input some of your keystrokes.
+    // This is where im going to put my input and output code, hence to display text and to input some of your keystrokes.
     cout << "type a number if the total value is less than 4 then the program will tell it";
     cin >> x;
-    cout <<"Plus the value your going to put in";
+    cout <<"Plus the value your going to put in FOR A MASSIVE DAMAGE!!";
     cin >> y;
     // the final product.
    sum = x+y;
